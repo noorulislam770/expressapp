@@ -1,0 +1,27 @@
+{
+  "name": "expressapp",
+  "version": "1.0.0",
+  "description": "this is for checking express on my android ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noorulislam770/expressapp.git"
+  },
+  "keywords": [
+    "express",
+    "on",
+    "android"
+  ],
+  "author": "Noor ul islam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noorulislam770/expressapp/issues"
+  },
+  "homepage": "https://github.com/noorulislam770/expressapp#readme",
+  "dependencies": {
+    "expressjs": "^1.0.1"
+  }
+}
